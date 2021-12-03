@@ -20,7 +20,7 @@ Use of filters is easy just do what the bot says.
 
 # Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zmraj/renamerobot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZmRAJA/renamebot2.git)
 
 
 # Upcoming Features
