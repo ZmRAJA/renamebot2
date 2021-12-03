@@ -2,7 +2,7 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "Hello there, I am Mesh Rename Bot. Open Source at https://github.com/zmraj/renamerobot.git. You can deploy your own."
+    START_MSG = "Hello there, I am ⚡️⚡️ TELEGRAM ANY FILES ⚡️⚡️ Rename Bot ⚡️⚡️ ."
      
     CANCEL_MESSAGE = "The rename has been canceled. Will be updated soon."
     
